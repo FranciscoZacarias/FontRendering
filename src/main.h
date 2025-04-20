@@ -6,7 +6,6 @@
 
 #define FZ_ENABLE_ASSERT  1
 #define FZ_ENABLE_WINDOW  1
-#define FZ_ENABLE_CONSOLE 1
 #define FZ_ENABLE_OPENGL  1
 
 #include "fz_include.h"
